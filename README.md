@@ -1,4 +1,5 @@
-💸 Tip Calculator
+💸 Tip Calculator Day2
+This project is part of the Udemy – 100 Days of Code: The Complete Python Pro Bootcamp.
 
 A simple Python program that calculates how much each person should pay when splitting a bill, including tip.
 
