@@ -14,4 +14,4 @@ The tip percentage
 
 The number of people
 
-and calculates the total bill with tip, then shows how much each person should pay, rounded to 2 decimal places.
+and calculates the total bill with tip and shows the amount per person, rounded to 2 decimal places.
